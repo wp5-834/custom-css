@@ -163,8 +163,7 @@ h1,h2,.entry-title {
 	border: 1px solid #555;
 	padding: 0rem 1rem;
 	box-sizing: border-box;
-	font-size: 0.63rem;
-	height: 1.818rem;
+	height: 2.2rem;
 }
 
 .widget_search .search-submit {
@@ -212,6 +211,10 @@ h1,h2,.entry-title {
 	background: transparent;
 	border: none;
 	color: inherit;
+}
+
+.mc-main caption, .mc-main.list .my-calendar-month, .mc-main .heading {
+  font-size: 1rem;
 }
 
 /** gallery **/
