@@ -162,6 +162,7 @@ h1,h2,.entry-title {
 .widget_search .search-form input {
 	border: 1px solid #555;
 	padding: 0rem 1rem;
+  font-size: 0.875rem;
 	box-sizing: border-box;
 	height: 2.2rem;
 }
