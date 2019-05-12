@@ -270,11 +270,6 @@ h2.entry-title {
 	display: none;
 }
 
-/* 見出しの上のラインをセンタリング */
-.home　h1:not(.site-title):before, h2:before {
-	margin : 0 auto;
-}
-
 /* カバー画像の背景なしに */
 .home .entry-content .wp-block-cover:first-child {
 	background-color: inherit;
