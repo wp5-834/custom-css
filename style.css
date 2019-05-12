@@ -61,6 +61,8 @@ h1,h2,.entry-title {
   padding: 6px;
   width: 32px;
   height: 32px;
+  display: flex;
+  align-items: center;
 }
 
 .site-logo .custom-logo-link:hover, .site-logo .custom-logo-link:active, .site-logo .custom-logo-link:focus {
