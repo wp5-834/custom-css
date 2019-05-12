@@ -75,7 +75,7 @@ h1,h2,.entry-title {
 
 .main-navigation {
 	flex-basis: 100%;
-	margin: 0.5rem;
+	margin: 1rem 0.5rem;
 }
 
 .main-navigation .main-menu > li > a {
