@@ -91,6 +91,12 @@ h1,h2,.entry-title {
     width: calc( 125% + 150px);
   }
 }
+
+@media only screen and (min-width: 768px) {
+  margin: 0;
+  padding: 3rem 0 1rem;
+}
+
 /*ヘッダーメニュー*/
 
 /* SNSアイコン右寄せ*/
