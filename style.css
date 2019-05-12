@@ -116,6 +116,11 @@ h1,h2,.entry-title {
 	margin-right: auto;
 }
 
+.entry .entry-content .wp-block-archives li, .entry .entry-content .wp-block-categories li,
+.entry .entry-content .wp-block-latest-posts li {
+  font-size: 1rem;
+  line-height: 1.5;
+}
 
 
 
