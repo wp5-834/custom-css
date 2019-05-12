@@ -18,6 +18,10 @@ body:lang(ja), button:lang(ja), input:lang(ja), select:lang(ja), optgroup:lang(j
 	font-family: 'Helvetica Neue','Helvetica','Arial',YuGothic,'Yu Gothic','Hiragino Sans','ヒラギノ角ゴシック','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
 }
 
+html {
+  font-size: 16px;
+}
+
 h1,h2,.entry-title {
 	font-weight: normal;
 }
@@ -45,12 +49,11 @@ h1,h2,.entry-title {
 
 .site-title {
 	margin: 0;
-	font-size: 1.45em;
+	font-size: 2rem;
 	font-weight: 500;
 }
 
 .site-description {
-	font-size: 0.72rem;
 	position: relative;
 	top: -4px;
 	margin-left: 1em;
@@ -63,7 +66,6 @@ h1,h2,.entry-title {
 
 .main-navigation {
 	flex-basis: 100%;
-	font-size: 0.77rem;
 	margin: 0.5rem;
 }
 
