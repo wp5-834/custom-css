@@ -64,6 +64,7 @@ h1,h2,.entry-title {
 
 .site-description::before {
   content: none;
+  display: none;
 }
 
 .site-title:not(:empty) + .site-description:not(:empty):before {
