@@ -147,6 +147,9 @@ h1,h2,.entry-title {
   font-size: 0.9rem;
 }
 
+.entry-footer {
+  font-size: 0.875rem;
+}
 
 /** footer **/
 #colophon .widget-column .widget {
