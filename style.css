@@ -147,7 +147,8 @@ h1,h2,.entry-title {
   font-size: 0.9rem;
 }
 
-.entry-footer {
+.entry-footer,
+.entry-meta {
   font-size: 0.875rem;
 }
 
